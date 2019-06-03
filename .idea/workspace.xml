@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="869d12dc-29f0-413a-8e3a-191bfe47bc95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/js/helper_arrows.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/hyroscope_views.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/hyroscope_views.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/polygon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/polygon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/screenshot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/screenshot.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1895665381">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="3" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="4" />
+          <entry key="ico" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="js" value="45" />
+          <entry key="png" value="2" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="3" />
+          <entry key="JavaScript" value="45" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1096" />
+          <entry key="gitignore" value="8" />
+          <entry key="html" value="809" />
+          <entry key="js" value="9308" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="1057" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1096" />
+          <entry key="HTML" value="809" />
+          <entry key="JavaScript" value="9308" />
+          <entry key="PLAIN_TEXT" value="1065" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/screenshot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/polygon.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="148" column="27" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/3d_cube.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="75" column="61" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/helper_arrows.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/phone_characteristics.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/3d_controls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>regex</find>
+      <find>d_cube_help</find>
+      <find>style</find>
+      <find>controls</find>
+      <find>getU</find>
+      <find>vie</find>
+      <find>body</find>
+      <find>getT</find>
+      <find>screensh</find>
+      <find>.image</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Darya Chyruk &lt;darya.chyruk@gmail.com&gt;" />
+        <option value="daryachyruk &lt;darya.chyruk@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/js/3d_mesh.js" />
+        <option value="$PROJECT_DIR$/src/js/stats.min.js" />
+        <option value="$PROJECT_DIR$/src/js/stats_min.js" />
+        <option value="$PROJECT_DIR$/src/stats_min.js" />
+        <option value="$PROJECT_DIR$/src/js/hexahedron.js" />
+        <option value="$PROJECT_DIR$/src/js/3d_controls.js" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/src/js/n_polygon.js" />
+        <option value="$PROJECT_DIR$/src/js/3d_cube.js" />
+        <option value="$PROJECT_DIR$/src/exif.js" />
+        <option value="$PROJECT_DIR$/src/js/phone_characteristics.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/css/main.css" />
+        <option value="$PROJECT_DIR$/src/js/hyroscope_views.js" />
+        <option value="$PROJECT_DIR$/src/js/helper_arrows.js" />
+        <option value="$PROJECT_DIR$/src/js/screenshot.js" />
+        <option value="$PROJECT_DIR$/src/js/plugins.js" />
+        <option value="$PROJECT_DIR$/src/js/polygon.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1169" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cam" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="un1" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869d12dc-29f0-413a-8e3a-191bfe47bc95" name="Default Changelist" comment="" />
+      <created>1539248580143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539248580143</updated>
+      <workItem from="1539248581809" duration="5367000" />
+      <workItem from="1539254188724" duration="2642000" />
+      <workItem from="1539370480571" duration="12585000" />
+      <workItem from="1539585367302" duration="39161000" />
+      <workItem from="1539763950512" duration="21581000" />
+      <workItem from="1539860573859" duration="2984000" />
+      <workItem from="1539939537178" duration="5753000" />
+      <workItem from="1540194770982" duration="5450000" />
+      <workItem from="1540218180048" duration="4940000" />
+      <workItem from="1540281350317" duration="2536000" />
+      <workItem from="1540290190517" duration="6454000" />
+      <workItem from="1540472339785" duration="820000" />
+      <workItem from="1540823177967" duration="7439000" />
+      <workItem from="1540897511781" duration="596000" />
+      <workItem from="1540974548817" duration="16122000" />
+      <workItem from="1541060003576" duration="9852000" />
+      <workItem from="1541153468019" duration="17539000" />
+      <workItem from="1541405480902" duration="2497000" />
+      <workItem from="1541417573015" duration="2981000" />
+      <workItem from="1541500602626" duration="6746000" />
+      <workItem from="1541661194527" duration="21485000" />
+      <workItem from="1542010259925" duration="1202000" />
+      <workItem from="1542013001538" duration="341000" />
+      <workItem from="1555538505906" duration="844000" />
+      <workItem from="1557672238214" duration="5253000" />
+      <workItem from="1559566666604" duration="795000" />
+    </task>
+    <task id="LOCAL-00079" summary="change 3d model v4">
+      <created>1541075882915</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1541075882915</updated>
+    </task>
+    <task id="LOCAL-00080" summary="change 3d model v5">
+      <created>1541076324651</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1541076324651</updated>
+    </task>
+    <task id="LOCAL-00081" summary="change 3d model v6">
+      <created>1541076411726</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1541076411726</updated>
+    </task>
+    <task id="LOCAL-00082" summary="change 3d model v7">
+      <created>1541077470219</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1541077470219</updated>
+    </task>
+    <task id="LOCAL-00083" summary="change 3d model v8">
+      <created>1541077573351</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1541077573351</updated>
+    </task>
+    <task id="LOCAL-00084" summary="added universal polygon">
+      <created>1541161314337</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1541161314340</updated>
+    </task>
+    <task id="LOCAL-00085" summary="added universal polygon2">
+      <created>1541161564723</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1541161564723</updated>
+    </task>
+    <task id="LOCAL-00086" summary="added universal polygon3">
+      <created>1541162242845</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1541162242846</updated>
+    </task>
+    <task id="LOCAL-00087" summary="added universal polygon4">
+      <created>1541163009767</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1541163009767</updated>
+    </task>
+    <task id="LOCAL-00088" summary="added universal polygon5">
+      <created>1541163123846</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1541163123846</updated>
+    </task>
+    <task id="LOCAL-00089" summary="added universal polygon6">
+      <created>1541164097463</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1541164097463</updated>
+    </task>
+    <task id="LOCAL-00090" summary="added universal polygon7">
+      <created>1541165210247</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1541165210248</updated>
+    </task>
+    <task id="LOCAL-00091" summary="added universal polygon8">
+      <created>1541166165972</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1541166165972</updated>
+    </task>
+    <task id="LOCAL-00092" summary="added no zum meta">
+      <created>1541166823391</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1541166823391</updated>
+    </task>
+    <task id="LOCAL-00093" summary="added no scroll body option">
+      <created>1541167170002</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1541167170002</updated>
+    </task>
+    <task id="LOCAL-00094" summary="change polygon">
+      <created>1541168410279</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1541168410280</updated>
+    </task>
+    <task id="LOCAL-00095" summary="change polygon2">
+      <created>1541168509393</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1541168509396</updated>
+    </task>
+    <task id="LOCAL-00096" summary="change polygon3">
+      <created>1541169267170</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1541169267171</updated>
+    </task>
+    <task id="LOCAL-00097" summary="change polygon4">
+      <created>1541169671532</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1541169671532</updated>
+    </task>
+    <task id="LOCAL-00098" summary="change polygon5">
+      <created>1541171232280</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1541171232280</updated>
+    </task>
+    <task id="LOCAL-00099" summary="change polygon6">
+      <created>1541171376964</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1541171376964</updated>
+    </task>
+    <task id="LOCAL-00100" summary="change polygon6">
+      <created>1541171689650</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1541171689650</updated>
+    </task>
+    <task id="LOCAL-00101" summary="change polygon7">
+      <created>1541406022272</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1541406022273</updated>
+    </task>
+    <task id="LOCAL-00102" summary="change polygon8">
+      <created>1541406759540</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1541406759542</updated>
+    </task>
+    <task id="LOCAL-00103" summary="change polygon9">
+      <created>1541407045312</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1541407045312</updated>
+    </task>
+    <task id="LOCAL-00104" summary="change polygon10">
+      <created>1541407479047</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1541407479047</updated>
+    </task>
+    <task id="LOCAL-00105" summary="added canvas with photo">
+      <created>1541665460976</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1541665460978</updated>
+    </task>
+    <task id="LOCAL-00106" summary="added canvas with photo2">
+      <created>1541665780057</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1541665780058</updated>
+    </task>
+    <task id="LOCAL-00107" summary="added canvas with photo3">
+      <created>1541665910427</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1541665910427</updated>
+    </task>
+    <task id="LOCAL-00108" summary="added canvas with photo4">
+      <created>1541666095824</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1541666095824</updated>
+    </task>
+    <task id="LOCAL-00109" summary="added canvas with photo5">
+      <created>1541666761602</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1541666761603</updated>
+    </task>
+    <task id="LOCAL-00110" summary="added canvas with photo6">
+      <created>1541669200895</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1541669200897</updated>
+    </task>
+    <task id="LOCAL-00111" summary="added canvas with photo7">
+      <created>1541669301383</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1541669301388</updated>
+    </task>
+    <task id="LOCAL-00112" summary="added canvas with photo8">
+      <created>1541669399190</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1541669399190</updated>
+    </task>
+    <task id="LOCAL-00113" summary="added canvas with photo9">
+      <created>1541670085709</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1541670085709</updated>
+    </task>
+    <task id="LOCAL-00114" summary="added canvas with photo10">
+      <created>1541670569758</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1541670569758</updated>
+    </task>
+    <task id="LOCAL-00115" summary="added canvas with photo11">
+      <created>1541671042966</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1541671042966</updated>
+    </task>
+    <task id="LOCAL-00116" summary="added canvas as 2d mesh material">
+      <created>1541674115141</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1541674115141</updated>
+    </task>
+    <task id="LOCAL-00117" summary="changed img">
+      <created>1541675404730</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1541675404730</updated>
+    </task>
+    <task id="LOCAL-00118" summary="changed img2">
+      <created>1541675542063</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1541675542063</updated>
+    </task>
+    <task id="LOCAL-00119" summary="changed img3">
+      <created>1541675967793</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1541675967793</updated>
+    </task>
+    <task id="LOCAL-00120" summary="changed img4">
+      <created>1541676808980</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1541676808980</updated>
+    </task>
+    <task id="LOCAL-00121" summary="changed img5">
+      <created>1541677738796</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1541677738796</updated>
+    </task>
+    <task id="LOCAL-00122" summary="changed img6">
+      <created>1541678004667</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1541678004667</updated>
+    </task>
+    <task id="LOCAL-00123" summary="changed img7">
+      <created>1541678053722</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1541678053722</updated>
+    </task>
+    <task id="LOCAL-00124" summary="changed img8">
+      <created>1541678172892</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1541678172892</updated>
+    </task>
+    <task id="LOCAL-00125" summary="changed img9">
+      <created>1541678508963</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1541678508963</updated>
+    </task>
+    <task id="LOCAL-00126" summary="changed img10">
+      <created>1541678971022</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1541678971022</updated>
+    </task>
+    <task id="LOCAL-00127" summary="changed img11">
+      <created>1541683609726</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1541683609726</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="203965000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1554" height="916" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25725594" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3298292" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32822478" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49933067" weight="0.32950193" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33508542" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19284803" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50066936" side_tool="true" weight="0.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="338" height="716" id="Documentation" order="3" side_tool="true" weight="0.13654618" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13852243" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3298292" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32822478" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49933067" weight="0.32950193" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33508542" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50066936" side_tool="true" weight="0.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="338" height="716" id="Documentation" order="3" side_tool="true" weight="0.13654618" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="change polygon9" />
+    <MESSAGE value="change polygon10" />
+    <MESSAGE value="added canvas with photo" />
+    <MESSAGE value="added canvas with photo2" />
+    <MESSAGE value="added canvas with photo3" />
+    <MESSAGE value="added canvas with photo4" />
+    <MESSAGE value="added canvas with photo5" />
+    <MESSAGE value="added canvas with photo6" />
+    <MESSAGE value="added canvas with photo7" />
+    <MESSAGE value="added canvas with photo8" />
+    <MESSAGE value="added canvas with photo9" />
+    <MESSAGE value="added canvas with photo10" />
+    <MESSAGE value="added canvas with photo11" />
+    <MESSAGE value="added canvas as 2d mesh material" />
+    <MESSAGE value="changed img" />
+    <MESSAGE value="changed img2" />
+    <MESSAGE value="changed img3" />
+    <MESSAGE value="changed img4" />
+    <MESSAGE value="changed img5" />
+    <MESSAGE value="changed img6" />
+    <MESSAGE value="changed img7" />
+    <MESSAGE value="changed img8" />
+    <MESSAGE value="changed img9" />
+    <MESSAGE value="changed img10" />
+    <MESSAGE value="changed img11" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed img11" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/User/Downloads/Scan.controller.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="850" column="8" lean-forward="true" selection-start-line="850" selection-start-column="8" selection-end-line="850" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/3d_mesh.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/stats_min.js" />
+    <entry file="file://$PROJECT_DIR$/src/stats_min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="833" selection-start-line="4" selection-start-column="833" selection-end-line="4" selection-end-column="833" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/hexahedron.js" />
+    <entry file="file://$PROJECT_DIR$/src/exif.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="991" column="11" selection-start-line="991" selection-start-column="7" selection-end-line="991" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/FAR4014.tmp/screenshot.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/FAR4015.tmp/screenshot.js" />
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="135" column="7" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cameraProject.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/hyroscope_views.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/helper_arrows.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/phone_characteristics.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/3d_controls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/polygon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="148" column="27" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/screenshot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/3d_cube.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="75" column="61" selection-start-line="75" selection-start-column="61" selection-end-line="75" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

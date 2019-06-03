@@ -1,0 +1,55 @@
+<!doctype html>
+<html >
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name='viewport'
+        content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'/>
+
+  <link rel="manifest" href="src/site.webmanifest">
+  <!--<link rel="apple-touch-icon" href="src/icon.png">-->
+
+  <link rel="stylesheet" href="src/css/main.css">
+  <script src="three.js"></script>
+  <script src="src/exif.js"></script>
+  <script src="src/stats_min.js"></script>
+
+</head>
+
+<body><!--scroll="no"-->
+  <header>
+  </header>
+
+  <div id="container" >
+    <div class="video_container">
+      <video id="video" controls autoplay></video>
+      <div class="horizontal_hyroscope"></div>
+      <div class="vertical_hyroscope"></div>
+      <button type="button" class="screenshot-button"></button>
+    </div>
+
+    <div class="select">
+     <!-- <label for="videoSource">Video source: </label> -->
+      <select id="videoSource"></select>
+      <div id="image-container"></div>
+    </div>
+  </div>
+
+  <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+  <script src="src/js/plugins.js"></script>
+  <script src="src/js/3d_controls.js"></script>
+  <script src="src/js/main.js"></script>
+  <script src="src/js/3d_cube.js"></script>
+  <script src="src/js/screenshot.js"></script>
+  <script src="src/js/polygon.js"></script>
+
+  <script src="src/js/phone_characteristics.js"></script>
+
+</body>
+
+</html>
