@@ -47,6 +47,14 @@ function init(counter){
    }
    checkCounter(counter);
   }
+  
+ var matLine = new THREE.LineMaterial( {
+					color: 0xffffff,
+					linewidth: 6, // in pixels
+					vertexColors: THREE.VertexColors,
+					//resolution:  // to be set by renderer, eventually
+					dashed: false
+				} );
 
   function writePlane(y,y2,bett,i){
 
@@ -63,7 +71,7 @@ function init(counter){
     figure.vertices.push(new THREE.Vector3(x2,y,z2));
     figure.vertices.push(new THREE.Vector3(x,y,z));
     figure.vertices.push(new THREE.Vector3(x2,y,z2));
-    line = new THREE.Line( figure, material2 );
+    line = new THREE.Line( figure, matLine );
 
     scene.add(line);
   }
