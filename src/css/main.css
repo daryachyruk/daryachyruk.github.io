@@ -218,7 +218,17 @@ select#videoSource {
   color: azure;
   font-style: normal;
   border-radius: 5px;
+}
 
+
+.infobtn{
+  max-height: 30px;
+  max-width: 50px;
+  padding: 5px;
+  margin: 20% 20% 20% 20%;
+  background-color: cornflowerblue;
+  color: azure;
+  border-radius: 5px;
 }
 
 @viewport {
