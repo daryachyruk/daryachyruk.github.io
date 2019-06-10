@@ -240,19 +240,19 @@ select#videoSource {
 }
 
 #pointC2 {
-  margin: 25px 25px calc(100% - 25px) calc(100% - 25px);
+  margin: 25px 25px calc(100% - 175px) calc(100% - 175px);
 }
 
 #pointC3 {
-  margin:   calc(50% - 25px) 25px 25px calc(100% - 50px);
+  margin:   calc(50% - 175px) 25px 25px calc(100% - 200px);
 }
 
 #pointC4 {
-  margin:   calc(50% - 25px) calc(100% - 25px) 25px 25px ;
+  margin:   calc(50% - 175px) calc(100% - 200px) 25px 25px ;
 }
 
 #pointC5 {
-  margin:   calc(25% - 25px) calc(50% - 25px) calc(50% - 25px) calc(50% - 25px) ;
+  margin:   calc(25% - 175px) calc(50% - 200px) calc(50% - 175px) calc(50% - 200px) ;
 }
 
 
