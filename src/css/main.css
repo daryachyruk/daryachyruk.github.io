@@ -168,6 +168,7 @@ select#videoSource {
 .video_container {
   min-width: 100%;
   min-height: 100%;
+
 }
 
 .hex_help {
@@ -203,7 +204,6 @@ select#videoSource {
   background: linear-gradient(red, orange,yellow,yellowgreen,green,yellowgreen,yellow,orange,red);
 }
 
-
 .infobox {
   position: absolute;
   justify-content: center;
@@ -211,7 +211,7 @@ select#videoSource {
   padding: 5px;
   z-index: 40;
   max-width: 80%;
-  max-height: 20%;
+
   overflow: auto;
   background: lightskyblue;
   font-size: 14px;
@@ -220,15 +220,51 @@ select#videoSource {
   border-radius: 5px;
 }
 
-.infotext {
-  height: 80px;
-  overflow-y: auto;
+.pointCalibration {
+  position: absolute;
+  justify-content: center;
+  padding: 5px;
+  z-index: 40;
+  max-width: 200px;
+  max-height: 50px;
+  background: lightskyblue;
+  font-size: 14px;
+  color: azure;
+  font-style: normal;
+  border-radius: 100px;
+
+}
+
+#pointC1 {
+  margin: 25px calc(100% - 25px) calc(100% - 25px) 25px;
+}
+
+#pointC2 {
+  margin: 25px 25px calc(100% - 25px) calc(100% - 25px);
+}
+
+#pointC3 {
+  margin:   calc(50% - 25px) 25px 25px calc(100% - 50px);
+}
+
+#pointC4 {
+  margin:   calc(50% - 25px) calc(100% - 25px) 25px 25px ;
+}
+
+#pointC5 {
+  margin:   calc(25% - 25px) calc(50% - 25px) calc(50% - 25px) calc(50% - 25px) ;
 }
 
 
+
+.infotext {
+  height: 200px;
+  overflow-y: auto;
+}
+
 .infobtn{
   max-height: 30px;
-  max-width: 80px;
+  max-width: 50px;
   padding: 5px;
   margin: 20% 20% 20% 20%;
   background-color: cornflowerblue;
