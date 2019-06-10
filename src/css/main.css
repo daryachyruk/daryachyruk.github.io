@@ -221,7 +221,7 @@ select#videoSource {
 }
 
 .infotext {
-  height: 200px;
+  height: 80px;
   overflow-y: auto;
 }
 
