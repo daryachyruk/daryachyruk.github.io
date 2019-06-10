@@ -226,7 +226,7 @@ select#videoSource {
   padding: 5px;
   z-index: 40;
   max-width: 200px;
-  max-height: 50px;
+  max-height: 200px;
   background: lightskyblue;
   font-size: 14px;
   color: azure;
