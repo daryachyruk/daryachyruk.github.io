@@ -211,7 +211,7 @@ select#videoSource {
   padding: 5px;
   z-index: 40;
   max-width: 80%;
-  min-height: 70%;
+  min-height: 300px;
   overflow: auto;
   background: lightskyblue;
   font-size: 14px;
